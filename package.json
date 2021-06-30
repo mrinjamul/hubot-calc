@@ -1,0 +1,23 @@
+{
+  "name": "@mrinjamul/hubot-calc",
+  "version": "1.0.0",
+  "description": "A hubot script to calculate simple maths",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinjamul/hubot-calc.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "Injamul Mohammad Mollah <mrinjamul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrinjamul/hubot-calc/issues"
+  },
+  "homepage": "https://github.com/mrinjamul/hubot-calc#readme"
+}
